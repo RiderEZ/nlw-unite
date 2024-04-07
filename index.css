@@ -16,7 +16,7 @@ button {
 }
 
 body {
-    background-color: #121214;
+    background-color: #000000;
     color: #ffffff;
 }
 
@@ -58,6 +58,7 @@ fieldset>div {
     padding: 8px 12px;
 
     font: 400 14px/150% 'Roboto', sans-serif;
+    color: #c4c4cc;
 }
 
 input {
@@ -98,7 +99,7 @@ fieldset button:hover {
 
 table {
     border-collapse: collapse;
-    background-color: #121214cb;
+    background-color: #000000cb;
 }
 
 table thead {
@@ -132,7 +133,7 @@ tbody td small {
 
 tbody td button {
     all: unset;
-    color: #0EB1F4;
+    color: #9ff9cc;
 }
 
 tbody td button:hover {

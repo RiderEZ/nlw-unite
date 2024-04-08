@@ -65,7 +65,6 @@ input {
     all: unset;
 }
 
-
 fieldset legend,
 section h2 {
     font: 700 16px/140% 'Roboto', sans-serif;
@@ -99,7 +98,6 @@ fieldset button:hover {
 
 table {
     border-collapse: collapse;
-    background-color: #000000cb;
 }
 
 table thead {
